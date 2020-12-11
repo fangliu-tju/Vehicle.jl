@@ -1,0 +1,4 @@
+name = "Vehicle"
+uuid = "5a9d363a-bf56-4634-902b-88989eca8d0f"
+authors = ["Fang Liu <fangliu@tju.edu.cn>"]
+version = "0.1.0"
